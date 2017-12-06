@@ -14,10 +14,6 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by fuyuxian on 2016/9/22.
- */
-
 public class Router {
 
     private static Map<String, Configure> sConfigures = new HashMap<>();
